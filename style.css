@@ -1,5 +1,5 @@
 body {
-  background-color: #babfc1;
+  background-color: #cdd2d4;
 }
 
 .btn:hover {
@@ -9,7 +9,7 @@ body {
 
 .btn {
   color:white;
-  background-color: #17a7c7;
+  background-color: #41dad7;
   border: none;
 
 }
@@ -93,7 +93,7 @@ body {
 }
 
 .front {
-  background: linear-gradient(315deg, #1bc1e6, rgb(114, 114, 117));
+  background: linear-gradient(315deg, #41dad7, rgb(114, 114, 117));
   font-size: 3rem;
 }
 
@@ -112,7 +112,7 @@ body {
   align-items: center;
   font-size: 4rem;
   font-family: 'Bungee', cursive;
-  color: #17a7c7;
+  color: #41dad7;
   position: absolute;
   top: 0;
   right: 0;
